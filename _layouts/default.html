@@ -9,16 +9,16 @@
         <meta name="description" content="{{ page.title }}">
         <meta name="author" content="Stephan Meissl">
 
-        <link rel="shortcut icon" href="/assets/favicon.ico"/>
+        <link rel="shortcut icon" href="{{ site.baseurl}}/assets/favicon.ico"/>
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/syntax.css">
 
         <!-- Bootstrap -->
-        <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="{{ site.baseurl}}/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl}}/css/main.css">
 
     </head>
     <body>
@@ -36,9 +36,9 @@
 
                         <div class="nav-collapse">
                             <ul class="nav nav-pills pull-right">
-                                <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="/">Home</a></li>
-                                <li{% if page.url != "/index.html" and page.url != "/sponsoring/index.html" %} class="active"{% endif %}><a href="/blog/">Blog</a></li>
-                                <li{% if page.url == "/sponsoring/index.html" %} class="active"{% endif %}><a href="/sponsoring/">Sponsoring</a></li>
+                                <li{% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/">Home</a></li>
+                                <li{% if page.url != "/index.html" and page.url != "/sponsoring/index.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/blog/">Blog</a></li>
+                                <li{% if page.url == "/sponsoring/index.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/sponsoring/">Sponsoring</a></li>
                             </ul>
                             <h3 class="text-muted">{{ page.title }}</h3>
                         </div>
@@ -71,7 +71,7 @@
         </div> <!-- container -->
 
         <!-- Bootstrap -->
-        <script src="/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="{{ site.baseurl}}/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script src="//code.jquery.com/jquery.js" type="text/javascript"></script>
 
     </body>
