@@ -1,0 +1,9 @@
+---
+layout: post
+title:  New website launched
+date:   2013-10-08
+---
+
+Yay, the OSGeo Vienna Code Sprint 2014 has a website of its own.
+
+The plan is to post updates more or less regularly as interesting stuff happens.
