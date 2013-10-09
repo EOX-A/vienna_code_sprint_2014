@@ -1,72 +1,50 @@
 /* Space out content a bit */
 body {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
-  padding-left: 15px;
-  padding-right: 15px;
+ul.sponsors li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 1em;
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-}
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
-  padding-bottom: 14px;
+footer {
+    font-size: .8em;
+    color: rgb(75, 75, 75);
 }
 
-/* Custom page footer */
-.footer {
-  text-align: center;
-  padding-top: 14px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
+#terrain_attribution {
+  position: absolute;
+  bottom: 2em;
+  right: .2em;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 5px;
+  font-size: 0.6em;
+  display: none;
 }
-
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  margin-bottom: 20px;
+#terrain_attribution :link, #terrain_attribution :visited {
+  text-decoration: none;
 }
-.container .jumbotron {
-  padding: 20px 30px;
+#terrain_attribution h2 {
+  margin-bottom: .1em;
 }
-.jumbotron h1 {
-  font-size: 36px;
-  margin-top: 0px;
+#terrain_attribution ul {
+  margin-top: .2em;
 }
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
+#terrain_attribution li {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2em;
 }
-.jumbotron p {
-  margin: 10px 0 0 0;
+#map div.olControlAttribution {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 3px;
+  font-size: 0.6em;
 }
-
-.main-content img {
-  text-align: center;
-}
-
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
-  .header,
-  .marketing,
-  .footer {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  /* Space out the masthead */
-  .header {
-    margin-bottom: 20px;
-  }
+#map div.olControlAttribution :link, #map div.olControlAttribution :visited  {
+  text-decoration: underline;
 }

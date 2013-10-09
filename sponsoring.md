@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title:  Sponsorship Opportunities
 ---
 
@@ -25,7 +25,7 @@ The sponsorship package includes the following honors:
 * Your name and logo in Code Sprint related blog posts
 * Up to 30-min slot at the sprint to talk about how you are using FOSS
 * Get to stare at us during the sprint and voice your input in person
-* Our undying gratitude, which comes in handy when you least expect it (Remember that feature you wanted...) 
+* Our undying gratitude, which comes in handy when you least expect it (Remember that feature you wanted...)
 
 ### Custom Packages
 
