@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Segelgruppe Kalksburg :: Blog</title>
+    <link>http://segelgruppe.at/blog/</link>
+    <atom:link href="http://segelgruppe.at/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Die Segelgruppe Kalksburg ist eine lang gewachsene Gemeinschaft aus Lehrern, Präfekten, Altschülern, Schülern und Freunden des Kollegium Kalksburg, die eines verbindet: die Liebe zum Segeln.</description>
+    <language>de-de</language>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>http://segelgruppe.at{{ post.url }}</link>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <author>{{ post.author }}</author>
+      <guid>http://segelgruppe.at{{ post.id }}</guid>
+      <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
