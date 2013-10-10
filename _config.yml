@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 url: http://eox-a.github.io
 baseurl: /vienna_code_sprint_2014
+exclude: [ 'README.md', 'Gemfile.lock', 'Gemfile' ]
