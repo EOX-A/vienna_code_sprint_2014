@@ -27,6 +27,25 @@ footer {
     margin-bottom: .6em;
 }
 
+/* Blog Posts */
+div.post h2 {
+    margin-top: 2em;
+}
+div.post ul.meta {
+    margin: 2em 0 0 0;
+    padding: 0;
+    font-size: .8em;
+    color: rgb(100, 100, 100);
+}
+div.post ul.meta li {
+    display: inline;
+    margin: 0;
+    padding-right: 1em;
+}
+div.post ul.meta span.glyphicon {
+    margin-right: .6em;
+}
+
 #terrain_attribution {
   position: absolute;
   bottom: 2em;

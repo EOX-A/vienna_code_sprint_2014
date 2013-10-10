@@ -2,6 +2,8 @@
 layout: post
 title:  New website launched
 date:   2013-10-08
+author: Stephan Meißl
+tags:   website
 ---
 
 Yay, the OSGeo Vienna Code Sprint 2014 has a website of its own.
