@@ -6,6 +6,4 @@ author: Stephan Meißl
 tags:   website
 ---
 
-Yay, the OSGeo Vienna Code Sprint 2014 has a website of its own.
-
-The plan is to post updates more or less regularly as interesting stuff happens.
+Yay, the *OSGeo Vienna Code Sprint 2014* has a website of its own. The plan is to post updates more or less regularly as interesting stuff happens.
