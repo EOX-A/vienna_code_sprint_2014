@@ -5,8 +5,8 @@ layout: nil
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSGeo :: Vienna Code Sprint 2014 :: Blog</title>
-    <link>http://eox-a.github.io{{ site.baseurl}}/blog.html</link>
-    <atom:link href="{{ site.baseurl}}/rss.xml" rel="self" type="application/rss+xml" />
+    <link>{{ site.url }}{{ site.baseurl}}/blog.html</link>
+    <atom:link href="{{ site.url }}{{ site.baseurl}}/rss.xml" rel="self" type="application/rss+xml" />
     <description>Get together project members to make decisions and tackle larger geospatial problems (as done last year at the Boston Code Sprint 2013 and previous years). This code sprint is targeting members of the "C Tribe" (e.g., MapServer, GRASS, GDAL, Proj, PostGIS, MapGuide, OpenLayers). Other tribes are welcome to join the sprint, of course, but we hope that "C Tribe" members will give this event special consideration.</description>
     <language>en-en</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -15,10 +15,10 @@ layout: nil
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>{{ site.baseurl}}/{{ post.url }}</link>
+      <link>{{ site.url }}{{ site.baseurl}}/{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>{{ post.author }}</author>
-      <guid>eox-a.github.io{{ site.baseurl}}{{ post.id }}</guid>
+      <guid>{{ site.url }}{{ site.baseurl}}{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
