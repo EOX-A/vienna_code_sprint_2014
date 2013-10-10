@@ -4,8 +4,8 @@ title:  OSGeo Vienna Code Sprint 2014
 ---
 
 <div class="jumbotron" style="position: relative;">
-    <div id="map" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
-    <div class="container" style="position: relative; text-shadow: 0 0 0.2em #FFF, 0 0 0.2em #FFF; background-color: rgba(255, 255, 255, 0.4); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 4px;">
+    <div id="map"></div>
+    <div class="container">
         <h1>OSGeo &raquo; Code Sprint 2014</h1>
         <p>Get together, decide, tackle large geospatial problems, have fun and explore a city.<br />
             March 24th to 28th. Vienna, Austria.</p>
