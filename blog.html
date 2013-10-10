@@ -18,10 +18,10 @@ title:  News
         <p><a href="{{ site.baseurl}}{{ post.url }}">Read more&hellip;</a></p>
 
         <ul class="meta">
-            <li><span class="glyphicon glyphicon-calendar"></span>{{ post.date | date_to_string }}</li>
-            <li><span class="glyphicon glyphicon-user"></span>{{ post.author }}</li>
-            <li><span class="glyphicon glyphicon-comment"></span><a href="{{ site.baseurl}}{{ post.url }}#disqus_thread">{{ post.title }}</a></li>
-            <li><span class="glyphicon glyphicon-tags"></span>{{ post.tags }}</li>
+            <li><span class="glyphicon glyphicon-calendar"></span> {{ post.date | date_to_string }}</li>
+            <li><span class="glyphicon glyphicon-user"></span> {{ post.author }}</li>
+            <li><span class="glyphicon glyphicon-comment"></span> <a href="{{ site.baseurl}}{{ post.url }}#disqus_thread">{{ post.title }}</a></li>
+            <li><span class="glyphicon glyphicon-tags"></span>&nbsp;&nbsp;{{ post.tags }}</li>
         </ul>
     </div>
     {% endfor %}

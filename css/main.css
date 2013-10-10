@@ -13,11 +13,6 @@ div.jumbotron div.container {
     border-radius: 4px;
 }
 
-span.glyphicon {
-    margin-right: .6em;
-}
-
-
 ul.sponsors li {
     list-style-type: none;
     display: inline-block;
