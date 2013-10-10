@@ -5,7 +5,7 @@ body {
   font-family: 'Droid Sans', Arial, sans-serif;
 }
 
-div.jumbotron div.container {
+div.jumbotron.frontpage div.container {
     position: relative;
     text-shadow: 0 0 0.2em #FFF, 0 0 0.2em #FFF;
     background-color: rgba(255, 255, 255, 0.4);

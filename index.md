@@ -3,7 +3,7 @@ layout: default
 title:  OSGeo Vienna Code Sprint 2014
 ---
 
-<div class="jumbotron" style="position: relative;">
+<div class="jumbotron frontpage" style="position: relative;">
     <div id="map"></div>
     <div class="container">
         <h1>OSGeo &raquo; Code Sprint 2014</h1>
