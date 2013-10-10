@@ -9,7 +9,7 @@ title:  OSGeo Vienna Code Sprint 2014
         <h1>OSGeo &raquo; Code Sprint 2014</h1>
         <p>Get together, decide, tackle large geospatial problems, have fun and explore a city.<br />
             March 24th to 28th. Vienna, Austria.</p>
-        <p style="margin-top: 1em"><a class="btn btn-primary btn-lg" href="{{ site.baseurl}}/sponsoring/" style="text-shadow: none;">Sponsorhip Opportunities &raquo;</a></p>
+        <p style="margin-top: 1em"><a class="btn btn-primary btn-lg" href="{{ site.baseurl}}/sponsoring.html" style="text-shadow: none;">Sponsorhip Opportunities &raquo;</a></p>
     </div>
     <div id="terrain_attribution">
         <p style="float: right"><a href="#" onclick="toggle(terrain_attribution)">&#215;</a></p>
@@ -43,12 +43,12 @@ title:  OSGeo Vienna Code Sprint 2014
             <li>TBA</li>
         </ul>
 
-        <h3>Venue Sponsors</h3>
+        <h3>Venue Sponsor</h3>
         <ul class="sponsors">
             <li><a href="http://www.wien.gv.at/english/administration/ict/index.html" title="City of Vienna MA 14"><img src="{{ site.baseurl}}/assets/Logo-City-of-Vienna.png" alt="City of Vienna MA 14" title="City of Vienna MA 14"/></a></li>
         </ul>
 
-        <h3>Other/in-kind sponsors</h3>
+        <h3>Other/in-kind sponsor</h3>
         <ul class="sponsors">
             <li><a href="http://eox.at"><img src="{{ site.baseurl}}/assets/Logo-EOX.png" alt="EOX IT Services GmbH" title="EOX IT Services GmbH"></a></li>
         </ul>
