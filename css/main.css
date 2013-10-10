@@ -23,6 +23,10 @@ footer {
     color: rgb(75, 75, 75);
 }
 
+#content h1 {
+    margin-bottom: .6em;
+}
+
 #terrain_attribution {
   position: absolute;
   bottom: 2em;
