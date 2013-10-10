@@ -4,21 +4,21 @@ layout: nil
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Segelgruppe Kalksburg :: Blog</title>
-    <link>http://segelgruppe.at/blog/</link>
-    <atom:link href="http://segelgruppe.at/blog/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Die Segelgruppe Kalksburg ist eine lang gewachsene Gemeinschaft aus Lehrern, Präfekten, Altschülern, Schülern und Freunden des Kollegium Kalksburg, die eines verbindet: die Liebe zum Segeln.</description>
-    <language>de-de</language>
+    <title>OSGeo :: Vienna Code Sprint 2014 :: Blog</title>
+    <link>http://eox-a.github.io{{ site.baseurl}}/blog.html</link>
+    <atom:link href="{{ site.baseurl}}/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Get together project members to make decisions and tackle larger geospatial problems (as done last year at the Boston Code Sprint 2013 and previous years). This code sprint is targeting members of the "C Tribe" (e.g., MapServer, GRASS, GDAL, Proj, PostGIS, MapGuide, OpenLayers). Other tribes are welcome to join the sprint, of course, but we hope that "C Tribe" members will give this event special consideration.</description>
+    <language>en-en</language>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://segelgruppe.at{{ post.url }}</link>
+      <link>{{ site.baseurl}}/{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>{{ post.author }}</author>
-      <guid>http://segelgruppe.at{{ post.id }}</guid>
+      <guid>eox-a.github.io{{ site.baseurl}}{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
