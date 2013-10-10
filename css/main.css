@@ -2,6 +2,7 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  font-family: 'Droid Sans', Arial, sans-serif;
 }
 
 div.jumbotron div.container {
@@ -28,14 +29,14 @@ footer {
 }
 
 /* Blog Posts */
-div.post h2 {
+div.post h1 {
     margin-top: 2em;
 }
 div.post ul.meta {
     margin: 2em 0 0 0;
     padding: 0;
     font-size: .8em;
-    color: rgb(100, 100, 100);
+    color: rgb(150, 150, 150);
 }
 div.post ul.meta li {
     display: inline;
@@ -44,6 +45,9 @@ div.post ul.meta li {
 }
 div.post ul.meta span.glyphicon {
     margin-right: .6em;
+}
+div.post #disqus_thread {
+    margin-top: 2em;
 }
 
 #terrain_attribution {
