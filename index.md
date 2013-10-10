@@ -5,7 +5,7 @@ title:  OSGeo Vienna Code Sprint 2014
 
 <div class="jumbotron" style="position: relative;">
     <div id="map" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
-    <div class="container" style="z-index: 1000; position: relative; text-shadow: 0 0 0.2em #FFF, 0 0 0.2em #FFF;">
+    <div class="container" style="position: relative; text-shadow: 0 0 0.2em #FFF, 0 0 0.2em #FFF; background-color: rgba(255, 255, 255, 0.4); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 4px;">
         <h1>OSGeo &raquo; Code Sprint 2014</h1>
         <p>Get together, decide, tackle large geospatial problems, have fun and explore a city.<br />
             March 24th to 28th. Vienna, Austria.</p>
@@ -68,9 +68,6 @@ layerDefaults = {
     resolutions: [ 0.70312500000000000000,0.35156250000000000000,0.17578125000000000000,0.08789062500000000000,0.04394531250000000000,0.02197265625000000000,0.01098632812500000000,0.00549316406250000000,0.00274658203125000000,0.00137329101562500000,0.00068664550781250000 ],
     maxExtent: new OpenLayers.Bounds(-180.000000,-90.000000,180.000000,90.000000),
     projection: new OpenLayers.Projection("EPSG:4326"),
-    gutter: 0,
-    buffer: 0,
-    units: 'dd',
     transitionEffect: 'resize',
     isphericalMercator: false,
     isBaseLayer: false,
