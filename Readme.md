@@ -21,4 +21,4 @@ These can be used in blog posts (inside the YAML front matter) as follows.
 ---
 icon:   road
 ---
-``
+```
