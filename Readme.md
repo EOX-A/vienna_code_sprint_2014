@@ -8,7 +8,7 @@ Clone the repository, install needed gems and run Jekyll ;)
 git clone git@github.com:EOX-A/vienna_code_sprint_2014.git
 cd vienna_code_sprint_2014
 bundle install
-jekyll serve --watch
+bundle exec jekyll serve --watch
 ```
 
 ## Glyphicons
