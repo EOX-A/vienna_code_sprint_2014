@@ -7,7 +7,7 @@ title:  OSGeo Vienna Code Sprint 2014
     <div id="map"></div>
     <div class="container">
         <h1>OSGeo &raquo; Code Sprint 2014</h1>
-        <p>Get together, decide, tackle large geospatial problems, have fun and explore a city.<br />
+        <p>Get together, hack, decide, tackle large geospatial problems, have fun, and explore a city.<br />
             March 24th to 28th. Vienna, Austria.</p>
         <p style="margin-top: 1em"><a class="btn btn-primary btn-lg" href="{{ site.baseurl}}/sponsoring.html" style="text-shadow: none;">Sponsorhip Opportunities &raquo;</a></p>
     </div>
