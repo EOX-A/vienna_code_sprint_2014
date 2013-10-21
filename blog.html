@@ -3,6 +3,8 @@ layout: default
 title:  News
 ---
 <div class="container" id="content">
+    <h4><a href="{{ site.baseurl}}/rss.xml"><span class="glyphicon glyphicon-plus"></span> RSS</a></h4>
+
     {% for post in site.posts %}
     <div class="post">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">
