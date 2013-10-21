@@ -1,0 +1,12 @@
+---
+layout: post
+title:  New OSGeo URL
+date:   2013-10-21
+author: Stephan Meißl
+tags:   website, osgeo
+icon:   bookmark
+---
+
+Thanks to Daniel Morissette the new website is now available under the official OSGeo URL [http://vienna2014.sprint.osgeo.org](http://vienna2014.sprint.osgeo.org)
+
+Please spread the word and point potential sponsors to this new URL.
