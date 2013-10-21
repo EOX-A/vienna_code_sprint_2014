@@ -2,4 +2,5 @@ name: OSGeo Vienna Code Sprint 2014
 markdown: redcarpet
 pygments: true
 url: http://eox-a.github.io
+baseurl: 
 exclude: [ 'README.md', 'Gemfile.lock', 'Gemfile' ]
