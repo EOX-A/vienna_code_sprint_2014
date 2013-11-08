@@ -3,15 +3,13 @@ layout: default
 title:  News
 ---
 <div class="container" id="content">
-    <h4><a href="{{ site.baseurl}}/rss.xml"><span class="glyphicon glyphicon-plus"></span> RSS</a></h4>
-
     {% for post in site.posts %}
     <div class="post">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">
             {% if post.icon %}
-            <span class="glyphicon glyphicon-{{ post.icon }}" style="font-size: .8em;"></span>
+            <i class="fa fa-fw {{ post.icon }}"></i>
             {% else %}
-            <span class="glyphicon glyphicon-pencil" style="font-size: .8em;"></span>
+            <i class="fa fa-fw fa-pencil"></i>
             {% endif %}
             {{ post.title }}
         </a></h1>
@@ -20,10 +18,10 @@ title:  News
         <p><a href="{{ site.baseurl}}{{ post.url }}">Read more&hellip;</a></p>
 
         <ul class="meta">
-            <li><span class="glyphicon glyphicon-calendar"></span> {{ post.date | date_to_string }}</li>
-            <li><span class="glyphicon glyphicon-user"></span> {{ post.author }}</li>
-            <li><span class="glyphicon glyphicon-comment"></span> <a href="{{ site.baseurl}}{{ post.url }}#disqus_thread">{{ post.title }}</a></li>
-            <li><span class="glyphicon glyphicon-tags"></span>&nbsp;&nbsp;{{ post.tags }}</li>
+            <li><i class="fa fa-fw fa-calendar"></i> {{ post.date | date_to_string }}</li>
+            <li><i class="fa fa-fw fa-user"></i> {{ post.author }}</li>
+            <li><i class="fa fa-fw fa-comments"></i> <a href="{{ site.baseurl}}{{ post.url }}#disqus_thread">{{ post.title }}</a></li>
+            <li><i class="fa fa-fw fa-tags"></i>&nbsp;&nbsp;{{ post.tags }}</li>
         </ul>
     </div>
     {% endfor %}

@@ -11,14 +11,15 @@ bundle install
 bundle exec jekyll serve --watch
 ```
 
-## Glyphicons
+## Font-Aweseome
 
-See http://getbootstrap.com/components/#glyphicons for a list of available glyphicons.
+We switched to font-awesome for icons, please see http://fontawesome.io/icons/
+for a list of available icons.
 
 These can be used in blog posts (inside the YAML front matter) as follows.
 
 ```yaml
 ---
-icon:   road
+icon:   fa-road
 ---
 ```

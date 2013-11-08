@@ -52,10 +52,13 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav pull-right">
-                <li {% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/">Home</a></li>
-                <li {% if page.url != "/index.html" and page.url != "/sponsoring.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/blog.html">Blog</a></li>
-                <li><a href="http://wiki.osgeo.org/wiki/Vienna_Code_Sprint_2014"><span class="glyphicon glyphicon-globe" style="font-size: .8em;"></span> Wiki</a></li>
-                <li {% if page.url == "/sponsoring.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/sponsoring.html">Sponsoring</a></li>
+                <li {% if page.url == "/index.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/"><i class="fa fa-fw fa-home"></i> Home</a></li>
+                <li {% if page.url != "/index.html" and page.url != "/sponsoring.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/blog.html"><i class="fa fa-fw fa-pencil"></i> Blog</a></li>
+                <li><a href="http://wiki.osgeo.org/wiki/Vienna_Code_Sprint_2014"><i class="fa fa-fw fa-external-link"></i> Wiki</a></li>
+                <li {% if page.url == "/sponsoring.html" %} class="active"{% endif %}><a href="{{ site.baseurl}}/sponsoring.html"><i class="fa fa-fw fa-credit-card"></i> Sponsoring</a></li>
+                <li>
+                    <a href="{{ site.baseurl}}/rss.xml" style="display: inline-block; padding-right: 0;"><i class="fa fa-fw fa-rss-square"></i></a>
+                    <a href="https://github.com/EOX-A/vienna_code_sprint_2014" style="display: inline-block; padding-right: 0;"><i class="fa fa-fw fa-github-square"></i></a>
                 </li>
               </ul>
             </div><!--/.navbar-collapse -->

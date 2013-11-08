@@ -3,10 +3,11 @@ layout: default
 ---
 <div class="container" id="content">
     <div class="post">
-        <h1>{% if page.icon %}
-            <span class="glyphicon glyphicon-{{ page.icon }}" style="font-size: .8em;"></span>
+        <h1>
+            {% if post.icon %}
+            <i class="fa fa-fw {{ post.icon }}"></i>
             {% else %}
-            <span class="glyphicon glyphicon-pencil" style="font-size: .8em;"></span>
+            <i class="fa fa-fw fa-pencil"></i>
             {% endif %}
             {{ page.title }}
         </h1>
@@ -14,10 +15,10 @@ layout: default
         {{ content }}
 
         <ul class="meta">
-            <li><span class="glyphicon glyphicon-calendar"></span> {{ page.date | date_to_string }}</li>
-            <li><span class="glyphicon glyphicon-user"></span> {{ page.author }}</li>
-            <li><span class="glyphicon glyphicon-comment"></span> <a href="{{ site.baseurl}}{{ post.url }}#disqus_thread">0 comments</a></li>
-            <li><span class="glyphicon glyphicon-tags"></span>&nbsp;&nbsp;{{ page.tags }}</li>
+            <li><i class="fa fa-fw fa-calendar"></i> {{ page.date | date_to_string }}</li>
+            <li><i class="fa fa-fw fa-user"></i> {{ page.author }}</li>
+            <li><i class="fa fa-fw fa-comments"></i> <a href="{{ site.baseurl}}{{ page.url }}#disqus_thread">0 comments</a></li>
+            <li><i class="fa fa-fw fa-tags"></i>&nbsp;&nbsp;{{ page.tags }}</li>
         </ul>
 
         <!-- start: Comments -->

@@ -4,7 +4,7 @@ title:  Status update 1
 date:   2013-08-30
 author: Stephan Meißl
 tags:   status
-icon:   pushpin
+icon:   fa-info-circle
 ---
 
 All, let me briefly summarize the current status of the planning for the
@@ -15,8 +15,8 @@ objections to going for a full week?
 
 The venue is reserved and blocked for us.
 
-If you plan to attend, please add yourself to the list of participants on the 
-[wiki page](http://wiki.osgeo.org/wiki/Vienna_Code_Sprint_2014#Participants) 
+If you plan to attend, please add yourself to the list of participants on the
+[wiki page](http://wiki.osgeo.org/wiki/Vienna_Code_Sprint_2014#Participants)
 indicating any special needs.
 
 Finally please let me know any potential sponsors you think I should
@@ -26,5 +26,5 @@ at FOSS4G.
 I plan to send updates more or less regularly as interesting stuff
 happens. I'm looking forward to welcome all of you in Vienna.
 
-cu  
+cu
 Stephan
