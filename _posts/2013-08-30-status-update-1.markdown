@@ -26,5 +26,5 @@ at FOSS4G.
 I plan to send updates more or less regularly as interesting stuff
 happens. I'm looking forward to welcome all of you in Vienna.
 
-cu
+cu  
 Stephan

@@ -28,5 +28,5 @@ early enough before we maybe have to start a waitlist.
 We are working on something big maybe unveiled in the next status update,
 stay tuned.
 
-cu
+cu  
 Stephan
