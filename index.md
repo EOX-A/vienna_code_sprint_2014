@@ -40,7 +40,7 @@ title:  OSGeo Vienna Code Sprint 2014
 
         <h3>Bronze Sponsors</h3>
         <ul class="sponsors">
-            <li>TBA</li>
+            <li><a href="http://www.metaspatial.net/en/institute" title="metaspatial Institute"><img src="{{ site.baseurl}}/assets/Logo-metaspatial.png" alt="metaspatial Institute" title="metaspatial Institute"/></a></li>
         </ul>
 
         <h3>Venue Sponsor</h3>
