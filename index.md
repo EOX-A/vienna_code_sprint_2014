@@ -30,7 +30,7 @@ title:  OSGeo Vienna Code Sprint 2014
 <div class="container">
         <h3>Gold Sponsors</h3>
         <ul class="sponsors">
-            <li><a href="http://airborne.aero/" title="Airborne Interactive"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive" title="Airborne Interactive"/></a></li>
+            <li><a href="http://airborne.aero/" title="Airborne Interactive Ltd"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive Ltd" title="Airborne Interactive Ltd"/></a></li>
         </ul>
 
         <h3>Silver Sponsors</h3>
