@@ -31,16 +31,19 @@ title:  OSGeo Vienna Code Sprint 2014
         <h3>Gold Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://airborne.aero/" title="Airborne Interactive Ltd"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive Ltd" title="Airborne Interactive Ltd"/></a></li>
+            <li>TBA</li>
         </ul>
 
         <h3>Silver Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://www.anachb.at/mehr" title="ITS Vienna Region"><img src="{{ site.baseurl}}/assets/Logo-ITS-VR.jpg" alt="ITS Vienna Region" title="ITS Vienna Region"/></a></li>
+            <li>TBA</li>
         </ul>
 
         <h3>Bronze Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://www.metaspatial.net/en/institute" title="metaspatial Institute"><img src="{{ site.baseurl}}/assets/Logo-metaspatial.png" alt="metaspatial Institute" title="metaspatial Institute"/></a></li>
+            <li>TBA</li>
         </ul>
 
         <h3>Venue Sponsor</h3>
