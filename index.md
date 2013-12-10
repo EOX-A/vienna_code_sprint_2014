@@ -35,7 +35,7 @@ title:  OSGeo Vienna Code Sprint 2014
 
         <h3>Silver Sponsors</h3>
         <ul class="sponsors">
-            <li>TBA</li>
+            <li><a href="http://www.anachb.at/mehr" title="ITS Vienna Region"><img src="{{ site.baseurl}}/assets/Logo-ITS-VR.jpg" alt="ITS Vienna Region" title="ITS Vienna Region"/></a></li>
         </ul>
 
         <h3>Bronze Sponsors</h3>
