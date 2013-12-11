@@ -31,6 +31,7 @@ title:  OSGeo Vienna Code Sprint 2014
         <h3>Gold Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://airborne.aero/" title="Airborne Interactive Ltd"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive Ltd" title="Airborne Interactive Ltd"/></a></li>
+            <li><a href="http://www.austrospace.at/" title="Austrospace"><img src="{{ site.baseurl}}/assets/Logo-Austrospace.png" alt="Austrospace" title="Austrospace"/></a></li>
             <li>TBA</li>
         </ul>
 
