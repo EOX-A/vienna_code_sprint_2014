@@ -7,6 +7,6 @@ tags:   sponsoring
 icon:   fa-glass
 ---
 
-We are proud to announce and welcome our second gold sponsor: [Austrospace](http://www.austrospace.at/)
+We are proud to announce and welcome our second gold sponsor: [Austrospace](http://www.austrospace.at/ "Austrospace")
 
 [![Austrospace]({{ site.baseurl}}/assets/Logo-Austrospace.png)](http://www.austrospace.at/ "Austrospace")
