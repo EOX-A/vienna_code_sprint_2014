@@ -1,0 +1,41 @@
+---
+layout: post
+title:  Venue
+date:   2013-12-16
+author: Stephan Meißl
+tags:   venue
+icon:   fa-building-o
+---
+
+Today I had the chance to visit the venue of the Code Sprint. I have been 
+there for the first time and I can say it's a really nice place. The 
+building is brand new and has a couple of nice restaurant and shops around. 
+I took a couple of images to give you an impression.
+
+The first is a panoramic shot of the big room: <img 
+src="{{site.baseurl}}/assets/Venue_1.jpg" alt="Big room panorama" title="Big 
+room panorama" class="img-rounded img-responsive"/>
+
+This is again the big room as seen from the main door. In the middle back 
+you can see the door to the smaller room: <img 
+src="{{site.baseurl}}/assets/Venue_2.jpg" alt="Big room" title="Big room" 
+class="img-rounded img-responsive"/>
+
+This is just outside of the rooms and a smaller room which we might also get 
+the chance to use if needed: <img src="{{site.baseurl}}/assets/Venue_3.jpg" 
+alt="Hall" title="Hall" class="img-rounded img-responsive"/>
+
+Finally I took some images from outside. On the upper two you can see the 
+entrance (right below the flags) as well as the windows of the rooms (just 
+right of the entrance). The lower two show the building from the other side 
+where you also have some restaurants and shops. <img 
+src="{{site.baseurl}}/assets/Venue_4.jpg" alt="Outside" title="Outside" 
+class="img-rounded img-responsive"/>
+
+I'm really looking forward to a great week.
+
+Many thanks again to the City of Vienna MA 14!
+<a href="http://www.wien.gv.at/english/administration/ict/index.html" 
+title="City of Vienna MA 14"><img 
+src="{{site.baseurl}}/assets/Logo-City-of-Vienna.png" alt="City of Vienna MA 
+14" title="City of Vienna MA 14" class="img-responsive"/></a>
