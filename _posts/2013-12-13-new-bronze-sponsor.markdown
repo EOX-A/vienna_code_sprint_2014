@@ -7,6 +7,6 @@ tags:   sponsoring
 icon:   fa-glass
 ---
 
-We are proud to announce and welcome our second bronze sponsor: [Oslandia](http://www.oslandia.com "Oslandia")
+We are proud to announce and welcome our second bronze sponsor: [Oslandia](http://www.oslandia.com/index-en.html "Oslandia")
 
-[![Oslandia]({{ site.baseurl}}/assets/Logo-Oslandia.png)](http://www.oslandia.com "Oslandia")
+[![Oslandia]({{ site.baseurl}}/assets/Logo-Oslandia.png)](http://www.oslandia.com/index-en.html "Oslandia")

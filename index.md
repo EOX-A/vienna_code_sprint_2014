@@ -42,7 +42,7 @@ title:  OSGeo Vienna Code Sprint 2014
         <h3>Bronze Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://www.metaspatial.net/en/institute" title="metaspatial Institute"><img src="{{ site.baseurl}}/assets/Logo-metaspatial.png" alt="metaspatial Institute" title="metaspatial Institute"/></a></li>
-            <li><a href="http://www.oslandia.com" title="Oslandia"><img src="{{ site.baseurl}}/assets/Logo-Oslandia.png" alt="Oslandia" title="Oslandia"/></a></li>
+            <li><a href="http://www.oslandia.com/index-en.html" title="Oslandia"><img src="{{ site.baseurl}}/assets/Logo-Oslandia.png" alt="Oslandia" title="Oslandia"/></a></li>
             <li><a href="http://rapidlasso.com" title="rapidlasso"><img src="{{ site.baseurl}}/assets/Logo-rapidlasso.png" alt="rapidlasso" title="rapidlasso"/></a></li>
         </ul>
 
