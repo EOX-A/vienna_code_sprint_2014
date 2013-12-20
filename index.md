@@ -32,13 +32,11 @@ title:  OSGeo Vienna Code Sprint 2014
         <ul class="sponsors">
             <li><a href="http://airborne.aero/" title="Airborne Interactive Ltd"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive Ltd" title="Airborne Interactive Ltd"/></a></li>
             <li><a href="http://www.austrospace.at/" title="Austrospace"><img src="{{ site.baseurl}}/assets/Logo-Austrospace.png" alt="Austrospace" title="Austrospace"/></a></li>
-            <li>TBA</li>
         </ul>
 
         <h3>Silver Sponsors</h3>
         <ul class="sponsors">
             <li><a href="http://www.anachb.at/mehr" title="ITS Vienna Region"><img src="{{ site.baseurl}}/assets/Logo-ITS-VR.jpg" alt="ITS Vienna Region" title="ITS Vienna Region"/></a></li>
-            <li>TBA</li>
         </ul>
 
         <h3>Bronze Sponsors</h3>
@@ -46,7 +44,6 @@ title:  OSGeo Vienna Code Sprint 2014
             <li><a href="http://www.metaspatial.net/en/institute" title="metaspatial Institute"><img src="{{ site.baseurl}}/assets/Logo-metaspatial.png" alt="metaspatial Institute" title="metaspatial Institute"/></a></li>
             <li><a href="http://www.oslandia.com" title="Oslandia"><img src="{{ site.baseurl}}/assets/Logo-Oslandia.png" alt="Oslandia" title="Oslandia"/></a></li>
             <li><a href="http://rapidlasso.com" title="rapidlasso"><img src="{{ site.baseurl}}/assets/Logo-rapidlasso.png" alt="rapidlasso" title="rapidlasso"/></a></li>
-            <li>TBA</li>
         </ul>
 
         <h3>Venue Sponsor</h3>
