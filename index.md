@@ -32,6 +32,7 @@ title:  OSGeo Vienna Code Sprint 2014
         <ul class="sponsors">
             <li><a href="http://airborne.aero/" title="Airborne Interactive Ltd"><img src="{{ site.baseurl}}/assets/Logo-Airborne-Interactive.png" alt="Airborne Interactive Ltd" title="Airborne Interactive Ltd"/></a></li>
             <li><a href="http://www.austrospace.at/" title="Austrospace"><img src="{{ site.baseurl}}/assets/Logo-Austrospace.png" alt="Austrospace" title="Austrospace"/></a></li>
+            <li><a href="http://www.tydac.ch" title="TYDAC"><img width="260px" src="{{ site.baseurl}}/assets/Logo-TYDAC.gif" alt="TYDAC" title="TYDAC"/></a></li>
         </ul>
 
         <h3>Silver Sponsors</h3>
