@@ -1,0 +1,20 @@
+---
+layout: post
+title:  Hotel
+date:   2014-01-15
+author: Stephan Meißl
+tags:   venue
+icon:   fa-building-o
+---
+
+I'm happy to finally announce the successful negotiation of a hotel block or 
+better two blocks at the two hotels closest to the sprint venue, [Hotel 
+Hillinger](http://www.hillinger.at) [<i class="fa 
+fa-map-marker"></i>](http://www.openstreetmap.org/#map=19/48.23133/16.45037) 
+(see image below) and [Hotel Wiener Kindl](http://www.wienerkindl.at) [<i 
+class="fa 
+fa-map-marker"></i>](http://www.openstreetmap.org/#map=19/48.22757/16.45428)
+. For details please see the 
+[wiki](http://wiki.osgeo.org/wiki/Vienna_Code_Sprint_2014#Hotel).
+
+<img src="{{site.baseurl}}/assets/Hotel_Hillinger.jpg" alt="" title="" class="img-rounded img-responsive"/>
