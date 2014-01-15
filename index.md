@@ -21,7 +21,7 @@ title:  OSGeo Vienna Code Sprint 2014
             <li>CleanTOPO2 public domain</li>
             <li>GlobCover &copy; <a href='http://esa.int'>ESA</a></li>
             <li>NaturalEarth <a href='http://www.naturalearthdata.com/about/terms-of-use/'>public domain</a></li>
-            <li>OpenStreetMap &copy; <a href='http://www.openstreetmap.org'>OpenStreetMap contributors</a></li>
+            <li>OpenStreetMap &copy; <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap contributors</a></li>
         </ul>
         <p>Terrain map design &copy; <a href='http://eox.at'>EOX IT Services GmbH</a></p>
     </div>
