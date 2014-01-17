@@ -11,6 +11,9 @@ bundle install
 bundle exec jekyll serve --watch
 ```
 
+For further information on GitHub pages, bundler, etc. please see
+https://help.github.com/articles/using-jekyll-with-pages.
+
 ## Font-Aweseome
 
 We switched to font-awesome for icons, please see http://fontawesome.io/icons/
