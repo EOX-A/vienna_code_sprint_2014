@@ -9,7 +9,7 @@ icon:   fa-info-circle
 
 Hi sprinters, we have great news from Vienna.
 
-The biggest news is that the QGis PSC voted for joining the Vienna Code 
+The biggest news is that the QGIS PSC voted for joining the Vienna Code 
 Sprint as first choice for their next Hackfest. Stay tuned for further 
 details. We will meet on IRC #tosprint today at around 4pm Vienna time for 
 some discussion. Please join if you're interested.
