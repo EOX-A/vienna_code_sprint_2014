@@ -60,7 +60,7 @@ title:  OSGeo Vienna Code Sprint 2014
         </ul>
 </div>
 
-<script src="//maps.eox.at/lib/openlayers/OpenLayers.js"></script>
+<script src="//maps.eox.at/dist/ol/OpenLayers.js"></script>
 <script type="text/javascript">
 function toggle(e) { e.style.display = (e.style.display == 'block' ? 'none' : 'block'); }
 
