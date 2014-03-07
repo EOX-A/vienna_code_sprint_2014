@@ -47,6 +47,7 @@ title:  OSGeo Vienna Code Sprint 2014
             <li><a href="http://www.oslandia.com/index-en.html" title="Oslandia"><img src="{{ site.baseurl}}/assets/Logo-Oslandia.png" alt="Oslandia" title="Oslandia"/></a></li>
             <li><a href="http://rapidlasso.com" title="rapidlasso"><img src="{{ site.baseurl}}/assets/Logo-rapidlasso.png" alt="rapidlasso" title="rapidlasso"/></a></li>
             <li><a href="http://www.azavea.com" title="Azavea"><img src="{{ site.baseurl}}/assets/Logo-Azavea.jpg" alt="Azavea" title="Azavea"/></a></li>
+            <li><a href="http://gfoss.it" title="GFOSS.it"><img src="{{ site.baseurl}}/assets/Logo-gfoss.png" alt="GFOSS.it" title="GFOSS.it"/></a></li>
         </ul>
 
         <h3>Venue Sponsor</h3>
