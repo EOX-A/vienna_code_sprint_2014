@@ -55,7 +55,10 @@ title:  OSGeo Vienna Code Sprint 2014
             <li><a href="http://www.wien.gv.at/english/administration/ict/index.html" title="City of Vienna MA 14"><img src="{{ site.baseurl}}/assets/Logo-City-of-Vienna.png" alt="City of Vienna MA 14" title="City of Vienna MA 14"/></a></li>
         </ul>
 
-        <h3>Other/in-kind sponsor</h3>
+        <h3>Other/in-kind sponsors</h3>
+        <ul class="sponsors">
+            <li><a href="http://www.osgeo.org"><img src="{{ site.baseurl}}/assets/Logo-OSGeo.png" alt="OSGeo" title="OSGeo"></a></li>
+        </ul>
         <ul class="sponsors">
             <li><a href="http://eox.at"><img src="{{ site.baseurl}}/assets/Logo-EOX.png" alt="EOX IT Services GmbH" title="EOX IT Services GmbH"></a></li>
         </ul>
