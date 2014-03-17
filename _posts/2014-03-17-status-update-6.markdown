@@ -27,7 +27,7 @@ Hermann-Gebauer-Straße and exit at Genochplatz.
 From Praterstern instead of the U2 you can also take the subway U-Bahn U1 
 particularly when going to the Hotel Hillinger. Take the U1 going to 
 Leopoldau and exit at Kagran. Now take the tram Straßenbahn 25 going to 
-Floridsdorf or the bus Autobus 26A going to Großenzersdorf and exit at 
+Oberdorfstraße or the bus Autobus 26A going to Großenzersdorf and exit at 
 Polgarstraße for the Hotel Hillinger or continue to Konstanziagasse for the 
 code sprint venue.
 
