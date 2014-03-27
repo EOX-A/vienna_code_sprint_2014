@@ -16,3 +16,17 @@ First photos from the sprint...
 <img src="{{site.baseurl}}/assets/photos/IMG_20140327_120342.jpg" class="img-rounded img-responsive"/>
 
 <img src="{{site.baseurl}}/assets/photos/PANO_20140327_120405.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140324_121344.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140324_121402.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140324_193515.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140324_193517.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140325_101329.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/vienna_code_sprint_pano_small.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/vienna_code_sprint_pano_segmented.png" class="img-rounded img-responsive"/>
