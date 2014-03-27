@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Photos
+date:   2014-03-27
+author: Stephan Meißl
+tags:   photos
+icon:   fa-group
+---
+
+First photos from the sprint...
+
+<img src="{{site.baseurl}}/assets/photos/IMG_0011_edited_small.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140324_095403.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/IMG_20140327_120342.jpg" class="img-rounded img-responsive"/>
+
+<img src="{{site.baseurl}}/assets/photos/PANO_20140327_120405.jpg" class="img-rounded img-responsive"/>
