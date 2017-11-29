@@ -1,6 +1,5 @@
 name: OSGeo Vienna Code Sprint 2014
-markdown: redcarpet
-pygments: true
+highlighter: rouge
 url: http://vienna2014.sprint.osgeo.org
-baseurl: 
+baseurl:
 exclude: [ 'README.md', 'Gemfile.lock', 'Gemfile' ]
